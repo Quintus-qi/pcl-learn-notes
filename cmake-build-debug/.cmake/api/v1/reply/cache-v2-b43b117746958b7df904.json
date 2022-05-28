@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/luoqi/pcl-learning/cmake-build-debug"
+			"value" : "/Users/luoqi/pcl-learning-notes/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/luoqi/pcl-learning"
+			"value" : "/Users/luoqi/pcl-learning-notes"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/luoqi/pcl-learning/cmake-build-debug"
+			"value" : "/Users/luoqi/pcl-learning-notes/cmake-build-debug"
 		},
 		{
 			"name" : "pcl_learning_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/luoqi/pcl-learning"
+			"value" : "/Users/luoqi/pcl-learning-notes"
 		}
 	],
 	"kind" : "cache",

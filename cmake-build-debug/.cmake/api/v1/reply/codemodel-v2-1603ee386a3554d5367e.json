@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/luoqi/pcl-learning/cmake-build-debug",
-		"source" : "/Users/luoqi/pcl-learning"
+		"build" : "/Users/luoqi/pcl-learning-notes/cmake-build-debug",
+		"source" : "/Users/luoqi/pcl-learning-notes"
 	},
 	"version" : 
 	{

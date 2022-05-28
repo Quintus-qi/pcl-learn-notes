@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__pcl_learning_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/luoqi/pcl-learning -B/Users/luoqi/pcl-learning/cmake-build-debug
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/luoqi/pcl-learning-notes -B/Users/luoqi/pcl-learning-notes/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
