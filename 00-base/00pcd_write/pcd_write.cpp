@@ -1,10 +1,6 @@
 /*
  * @Description: 
- * @Author: HCQ
- * @Company(School): UCAS
- * @Date: 2020-10-04 18:33:16
- * @LastEditors: HCQ
- * @LastEditTime: 2020-10-04 18:33:29
+ * @Author: qluo
  */
 #include <iostream>
 #include <pcl/io/pcd_io.h>
