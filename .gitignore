@@ -9,8 +9,10 @@
 # !lib.a
 # 仅仅忽略项目根目录下的 TODO 文件，不包括 subdir/TODO
 # /TODO
-# 忽略 build/ 目录下的所有文件
+# 忽略目录下的所有文件
 build/
+Data/
+cmake-build-debug/
 ！*.pcd
 # 会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
 # doc/*.txt

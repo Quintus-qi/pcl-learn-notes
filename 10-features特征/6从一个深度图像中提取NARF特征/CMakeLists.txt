@@ -1,7 +1,8 @@
 cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
 
-project(cloud_viewer)
+project(narf_feature_extraction)
 
+set(CMAKE_PREFIX_PATH "/opt/homebrew/opt/qt@5")
 find_package(PCL 1.2 REQUIRED)
 
 include_directories(${PCL_INCLUDE_DIRS})
